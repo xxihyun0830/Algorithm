@@ -1,7 +1,5 @@
 package aa;
-
 public class Person {
-	
 	
 	public static void main(String[] args) {
 		String name;
@@ -11,6 +9,7 @@ public class Person {
 		age = 12;
 		
 		System.out.println(name + " :" + age);
+		System.out.println("commit 성공! ");
 		
 	}
 }
